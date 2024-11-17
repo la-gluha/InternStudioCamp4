@@ -458,7 +458,7 @@ if st.session_state.messages[-1]["role"] != "assistant":
 streamlit run app.py
 ```
 
-
+![image-20241117223749491](https://github.com/la-gluha/InternStudioCamp4/blob/main/chapter4/img/image-20241117223749491.png)
 
 
 
