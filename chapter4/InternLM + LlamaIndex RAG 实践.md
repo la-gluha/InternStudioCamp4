@@ -465,3 +465,11 @@ streamlit run app.py
 ## 总结
 
 RAG的代码在直接请求的基础上，新增了查询知识库的步骤。通过embedding模型，查询出相关的信息，并将其封装在上下文中，保证回答内容的准确性
+
+
+
+## 课程链接
+
+API方式：https://github.com/InternLM/Tutorial/blob/camp4/docs/L1/LlamaIndex/readme_api.md
+
+本地模型方式：https://github.com/InternLM/Tutorial/blob/camp4/docs/L1/LlamaIndex/readme_local.md
